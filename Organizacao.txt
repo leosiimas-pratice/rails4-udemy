@@ -1,0 +1,16 @@
+Usiario:
+
+-Cadastro no site               -> Primeira Parte
+-Inserir anúncio                -> Primeira Parte
+-Fazer perguntas em anúncios
+-Verificar Perfil
+  -Alterar Dados da conta
+  -Responder Perguntas
+
+
+Administrador:
+
+-Login                          -> Primeira Parte
+-Verificar Estatisticas         -> Primeira Parte
+-Cadastrar Novas Categorias     -> Primeira Parte
+-Moderar Perguntas

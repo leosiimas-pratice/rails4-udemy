@@ -1,0 +1,17 @@
+- SB Admin 2: biblioteca do bootstrap para administradores.
+- Template Ecomerce bootstrap: Template para utilizar como layout.
+
+
+
+
+- I18n: Gem para utilizar i18n no rails
+- Better_errors: Gem, tela de erro melhor que a tela do Rails
+- Foreman: Gem, gerencia application apartir do Procfile
+- Devise: solução para autenticação no Rails
+- Devise-I18n: Gem para uzar i18n com Devise
+- Voormedia/rails-erd: Gem que mostra diagrama de relacionamento
+- bootstrap_sb_adm_v2 :Gem para utilizar o template do SB admin 2
+- pundit: Gem para gerenciar as Autorização
+
+
+- find_or_create_by: Api que evita duplicar o seed nos bancos de dados

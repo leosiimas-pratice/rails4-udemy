@@ -1,0 +1,53 @@
+***Etapas elaboradas a partir da aula de Pundit::
+
+---------------------------------------------------------------
+
+Aula Pundit (39-40)
+
+ A gem devise fica responsavel pela autenticação, enquanto
+a gem Pundit fica responsavel pela autorização.
+
+---------------------------------------------------------------
+
+Aula Struct(41)
+
+  Forma de criar uma classe simples.
+
+---------------------------------------------------------------
+
+Aula Messagens Erros Devise  e Colection Radio (42)
+
+-  Organizando os erros gerados pelo devise para aparecer na tela
+-  Colection Radio Buttons, selecionar mais uma opção dos botoes
+
+---------------------------------------------------------------
+
+Aula Collect/Map e Pundit (43)
+
+- Arrumar as opções do botões do Colection Radio e Buttons e de permição
+
+---------------------------------------------------------------
+
+Aula Action Mailer  e MialCatcer (44 e 45)
+
+- Aprendendo a utilizar o Action Mailer (Email)
+- Mail catcher, para observar os emaisl enviados
+
+---------------------------------------------------------------
+
+ Aula Modal Dinamico c/ bootstrap (46 - 48)
+
+ - Aprendendo utilizar o Modal do bootstrap
+ - Criar nova controller responsavel por enviar os emails
+
+---------------------------------------------------------------
+ Aula Gerenciamento de Errors (49)
+
+ - Aprendendo a dar nomes aos erros
+
+ ---------------------------------------------------------------
+
+ Aula de Refatoração e Task Ads (50)
+
+ - Refatorando para melhorar os codigos
+ - Aprendendo sobre escapeJavascript
